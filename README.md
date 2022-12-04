@@ -1,3 +1,5 @@
+Hello There I am Sandip & I am 20 y/o guy and a Computer programming enthusiast... I ❤️ Making Coding stuffs (i.e. Development)...
+
 - 👋 Hi, I’m @lowSandip
 - 👀 I’m interested in Game and Web Development
 - 🌱 I’m currently mastering React and Next Js skills
